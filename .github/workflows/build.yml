@@ -2,6 +2,8 @@ name: Publish Package
 
 on:
   push:
+    branches:
+      - master
     tags:
       - 'v*'
   pull_request:
@@ -22,7 +24,7 @@ jobs:
 
       - run: npm test
 
-      - run: npm lint
+      - run: npm run lint
 
   publish-npm:
     if: github.ref == 'refs/heads/master'
