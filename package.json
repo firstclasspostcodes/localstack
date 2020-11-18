@@ -30,7 +30,7 @@
     "git-cz": "^4.7.3",
     "husky": "^4.3.0",
     "prettier": "^2.1.2",
-    "semantic-release": "^17.2.2"
+    "semantic-release": "^17.2.3"
   },
   "homepage": "https://github.com/firstclasspostcodes/localstack#readme",
   "dependencies": {
