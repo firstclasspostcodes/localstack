@@ -29,7 +29,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "git-cz": "^4.7.4",
     "husky": "^4.3.0",
-    "prettier": "^2.1.2",
+    "prettier": "^2.2.0",
     "semantic-release": "^17.2.4"
   },
   "homepage": "https://github.com/firstclasspostcodes/localstack#readme",
